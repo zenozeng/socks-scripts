@@ -9,5 +9,3 @@
 - redsocks
 
 - ssh
-
-- proxychains
